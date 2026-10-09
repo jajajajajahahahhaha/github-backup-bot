@@ -10695,6 +10695,6 @@
       }
     }
   },
-  "pinned_message_id": null,
+  "pinned_message_id": 42111,
   "channel_snapshot_message_ids": []
 }
